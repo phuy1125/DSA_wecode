@@ -1,6 +1,6 @@
 #include<iostream>
 #include<vector>
-
+ket an cut
 struct Node {
 	int data;
 	Node* pLeft;
